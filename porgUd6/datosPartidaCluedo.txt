@@ -1,0 +1,29 @@
+
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Mora, arma= candelabro, habitación= cocina, hora de partida: 21:10:19.302868300]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Amapola, arma= candelabro, habitación= cocina, hora de partida: 21:10:22.301374200]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Prado, arma= veneno, habitación= spa, hora de partida: 21:10:28.623566400]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Blanco, arma= trofeo, habitación= teatro, hora de partida: 21:13:28.925713800]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Rubio, arma= trofeo, habitación= cocina, hora de partida: 21:13:32.436596400]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Rubio, arma= cuchillo, habitación= teatro, hora de partida: 21:13:36.020006500]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Blanco, arma= bate, habitación= spa, hora de partida: 21:19:30.725228]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Blanco, arma= cuchillo, habitación= salon, hora de partida: 21:20:12.584706400]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Blanco, arma= candelabro, habitación= casa de invitados, hora de partida: 21:34:21.240324]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Rubio, arma= hacha, habitación= teatro, hora de partida: 21:34:48.481263]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Celeste, arma= cuerda, habitación= teatro, hora de partida: 21:35:05.457913300]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Carlos, arma= trofeo, habitación= spa, hora de partida: 21:50:47.020217500]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Amapola, arma= pistola, habitación= observatorio, hora de partida: 21:52:07.398757700]
+Cabecera - Fecha: 2024-03-26
+Jugador [Nombre= Dani, arma= candelabro, habitación= comedor, hora de partida: 21:52:25.559351900]
